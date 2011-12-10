@@ -1,0 +1,6 @@
+name: DiscRandomizer
+version: 0.1a
+author: TerXIII
+description: Makes discs random!
+
+main: com.terxiii.DiscRandomizer.DiscRandomizer
